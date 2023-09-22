@@ -1,6 +1,7 @@
 # movies
 ## integrantes:
-- Sergio Vecchi
+- Sergio Vecchi 38 San Miguel
 - Ezequiel Mazzucco
-- Leonel Gonzales
-- Marco Falcon 23, Capital Federal
+- Leonel Gonzales - 21 - Buenos Aires(lanus)
+- Marco Falcon
+- Fernando Villanueva - 30 - Buenos Aires(Luis Guillon)
